@@ -1,5 +1,7 @@
 # Kampüs Film Kulübü - React TVMaze Uygulaması
 Süleyman Demirel Üniversitesi Film Kulübü ödevi: React + Vite kullanılarak yapılan basit bir dizi/film takip uygulaması. Kullanıcılar favori dizilerini ekleyip çıkarabilir ve listelerini yönetebilir.
+## Canlı Demo
+Uygulamayı Vercel üzerinden canlı olarak görmek için [tıklayın](https://3-odev-in18-git-main-marias-projects-88b6a7b8.vercel.app/)
 
 
 ## Özellikler
