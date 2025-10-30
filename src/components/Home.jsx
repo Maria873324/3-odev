@@ -3,7 +3,7 @@ import SearchBox from "./SearchBox";
 import Filters from "./Filters";
 import TVList from "./TVList";
 import WatchlistPanel from "./WatchlistPanel";
-import Pagination from "./Pagination";
+import Pagination from "./pagination";
 
 function applyFilters(shows, filters) {
   const { genre, language, minRating } = filters;
